@@ -1,5 +1,6 @@
 /// <reference path="../dist/phaser.js" />
 
+// this is the game config object
 var config = {
 	type: Phaser.AUTO,
 	width: 800,
